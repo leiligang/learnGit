@@ -9,3 +9,4 @@ Pull me.
 --amend
 dingdong
 rebase
+test rebase
